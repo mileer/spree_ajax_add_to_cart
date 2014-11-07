@@ -1,7 +1,7 @@
 SpreeAjaxAddToCart
 ==================
 
-Introduction goes here.
+Extensión de spree que permite agregar un articulo al carrito de compra realizando una peticion en AJAX tanto desde la vista principal del catalogo, como la vista de detalle del articulo seleccionado.
 
 Installation
 ------------
